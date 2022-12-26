@@ -1,3 +1,7 @@
+
+<a href="https://wakatime.com/@613e92ff-5012-4afd-aeb7-30356e471c40"><img src="https://wakatime.com/badge/user/613e92ff-5012-4afd-aeb7-30356e471c40.svg" alt="Total time coded since Mar 2 2022" /></a>
+
+
 ### Hi there 👋
 
 <!--
